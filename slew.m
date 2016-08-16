@@ -1,7 +1,3 @@
-                                                                     
-                                                                     
-                                                                     
-                                             
 function out = slew(in,alfa,sr,GBW,Ts)
 % Models the operational amplifier finite bandwidth and slew rate
 % for a discrete time integrator 
